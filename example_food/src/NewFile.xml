@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Menu>
+	<item category="desayunos">
+        <name>Cereal Chocapic con yogurt</name>
+        <description>50gr de chocapic con 100ml de yogurt.</description>
+        <price>$7.99</price>
+    </item>
+    <item category="desayunos">
+        <name>Avena con leche</name>
+        <description>Avena con leche y canela. </description>
+        <price>$8.99</price>
+    </item>
+    <item category="desayunos">
+        <name>Tostadas con té/café</name>
+        <description>Tostadas con mantequilla, bebida a elección.</description>
+        <price>$8.99</price>
+    </item>
+    <item category="entradas">
+        <name>Ensalada con Pollo</name>
+        <description>Una ensalada con pollo.</description>
+        <price>$10.99</price>
+    </item>
+    <item category="entradas">
+        <name>Sánduche de Pollo</name>
+        <description>Un sánduche de pollo. </description>
+        <price>$12.99</price>
+    </item>
+    <item category="entradas">
+        <name>Sánduche de Pastrami</name>
+        <description>Un sánduche hecho con pastrami.</description>
+        <price>$13.99</price>
+    </item>
+    <item category="cenas">
+        <name>Consomé de Pollo</name>
+        <description>Caldo de pollo con sémola.</description>
+        <price>$9.99</price>
+    </item>
+    <item category="cenas">
+        <name>Cazuela de vacuno</name>
+        <description>Caldo de vacuno. </description>
+        <price>$14.99</price>
+    </item>
+    <item category="cenas">
+        <name>Sánduche de Pastrami</name>
+        <description>Un sánduche hecho con pastrami.</description>
+        <price>$13.99</price>
+    </item> 
+</Menu>
