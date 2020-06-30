@@ -14,7 +14,7 @@
 				<div class="row"><br>
 					<div class="col-lg-12">
 							<form method="post" action="Home">
-								<br><button class="btn btn-info" name="add">Púlsa!</button><br><br>
+								<br><button class="btn btn-info">Púlsa!</button><br><br>
 							</form >
 						</div>
 					</div>	
